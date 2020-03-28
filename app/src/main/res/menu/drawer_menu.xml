@@ -7,6 +7,10 @@
     <group android:checkableBehavior="single">
 
         <item
+            android:id="@+id/nav_main"
+            android:title="Home"/>
+
+        <item
             android:id="@+id/nav_games"
             android:title="Games" />
 
@@ -19,18 +23,18 @@
             android:title="Company" />
         <item
             android:id="@+id/nav_news"
-            android:title="Games" />
+            android:title="News" />
 
         <item
             android:id="@+id/nav_careers"
-            android:title="Store" />
+            android:title="Careers" />
 
         <item
             android:id="@+id/nav_community"
-            android:title="Company" />
+            android:title="Community" />
         <item
             android:id="@+id/nav_contact"
-            android:title="Company" />
+            android:title="Contact" />
 
     </group>
 
