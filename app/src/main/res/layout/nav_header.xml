@@ -10,10 +10,10 @@
 
     <ImageView
         android:layout_marginTop="8dp"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:src="@drawable/icon_tw"
-        android:layout_marginBottom="25dp" />
+        android:layout_marginBottom="20dp" />
 
     <TextView
         android:layout_width="wrap_content"
