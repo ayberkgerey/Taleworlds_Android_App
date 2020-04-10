@@ -13,6 +13,9 @@ https://www.taleworlds.com/
 <img src = "Screenshots/s4.png" width="260" height="500"/>
 <img src = "Screenshots/s5.png" width="260" height="500"/>
 <img src = "Screenshots/s6.png" width="260" height="500"/>
-</div>
-
-
+</div><br>
+  
+  
+  
+  <br>
+  <h4>© 2005-2019 TaleWorlds Entertainment. All rights reserved.</h4>
