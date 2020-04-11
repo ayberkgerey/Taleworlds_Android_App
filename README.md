@@ -1,5 +1,5 @@
 <h1>TaleWorlds Android App</h1>
-<h4> The Android Application for TaleWorlds Entertainment© </h4>
+<h4> The Android Application for TaleWorlds Entertainment© Created by Ayberk Gerey</h4>
 <br>
 <h3>Website</h3>
 https://www.taleworlds.com/
