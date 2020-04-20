@@ -2,6 +2,9 @@
 <h4>Created by Ayberk Gerey</h4>
 <h3>TaleWorlds <a href= "https://www.taleworlds.com/">Website</a></h3>
 <br>
+
+<p>Animation splash screen added.</p>
+
 <h3>Screenshots</h3><br>
 <div class="row">
   <div class="column">
