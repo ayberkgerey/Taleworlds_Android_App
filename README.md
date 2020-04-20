@@ -1,6 +1,6 @@
 <h1>TaleWorlds Android App</h1>
 <h4>Created by Ayberk Gerey</h4>
-<h3><a href= "https://www.taleworlds.com/">Website</a></h3>
+<h3>TaleWorlds <a href= "https://www.taleworlds.com/">Website</a></h3>
 <br>
 <h3>Screenshots</h3><br>
 <div class="row">
