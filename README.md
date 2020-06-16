@@ -1,5 +1,5 @@
 <h1>TaleWorlds Android App</h1>
-<h4>Created by Ayberk Gerey</h4>
+<h4>Created by Ayberk Gerey if they gift bannerlord but they did not!</h4>
 <h3>TaleWorlds <a href= "https://www.taleworlds.com/">Website</a></h3>
 <br>
 
