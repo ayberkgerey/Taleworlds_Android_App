@@ -4,6 +4,7 @@
 <br>
 
 <p>Animation splash screen added.</p>
+<p>WebView used.</p>
 
 <h3>Screenshots</h3><br>
 <div class="row">
